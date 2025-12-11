@@ -12,6 +12,14 @@ Bu depo, uzay ve havacılık alanındaki gelişmeleri, projeleri ve kaynakları 
 
 ---
 
+## 🏗️ Yeni: Web Platformu
+
+Feza Arşivi artık modern bir web arayüzüne sahip! Dosyalar arasında kaybolmak yerine, arşivimizi özel olarak tasarlanmış uzay temalı web sitemizden keşfedebilirsiniz.
+
+👉 **[Web Projesi Detayları ve Kurulum](web/README.md)**
+
+---
+
 ## 📑 İçindekiler
 
 - [Hakkında](#-hakkında)
@@ -42,6 +50,7 @@ Türkiye'nin milli uzay ve havacılık hamlesi kapsamında geliştirilen projele
 - **[TUA](Türkiye/TUA)** - **Türkiye Uzay Ajansı (TUA)**, Türkiye’nin **uzay politikalarını belirleyen**, projeleri koordine ed...
 - **[TÜBİTAK_Uzay](Türkiye/TÜBİTAK_Uzay)** - **TÜBİTAK UZAY**, Türkiye’nin uzay ve uydu teknolojileri alanındaki **araştırma-geliştirme ve üretim...
 - **[Üniversite_Projeleri](Türkiye/Üniversite_Projeleri)** - Bu depo, Türkiye’deki üniversitelerin yürüttüğü **roket, uydu, İHA, VTOL ve otonom sistem projelerin...
+
 ### 🌍 Dünya
 Küresel ölçekte uzay çalışmaları yürüten ajanslar ve projeler:
 - **[BlueOrigin](Dünya/BlueOrigin)** - **Blue Origin**, Amerikan uzay şirketi ve **ticari uzay taşımacılığı** alanında öncü kurumlardan bir...
@@ -50,6 +59,7 @@ Küresel ölçekte uzay çalışmaları yürüten ajanslar ve projeler:
 - **[NASA](Dünya/NASA)** - **NASA**, 1958 yılında kurulmuş, Amerika Birleşik Devletleri’nin sivil uzay ajansıdır.
 - **[Roscosmos](Dünya/Roscosmos)** - **Roscosmos**, Rusya’nın ulusal uzay ajansıdır.
 - **[SpaceX](Dünya/SpaceX)** - **SpaceX**, 2002 yılında **Elon Musk** tarafından kurulan Amerikan özel uzay şirketidir.
+
 ## 📚 Kaynaklar
 
 `Kaynaklar/` dizini altında, araştırmalarınızda kullanabileceğiniz PDF'ler, makaleler ve yararlı bağlantılar bulunmaktadır.
