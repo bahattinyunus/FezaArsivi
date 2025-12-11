@@ -72,7 +72,7 @@ def update_readme():
     world_replacement = f"{world_header}\nKüresel ölçekte uzay çalışmaları yürüten ajanslar ve projeler:\n" + "\n".join(world_projects) + "\n"
     
     # Uses regex to replace from ### 🌍 Dünya until the next ## header
-    content = re.sub(r'### 🌍 Dünya.*?(?=## 🔗)', world_replacement, content, flags=re.DOTALL)
+    content = re.sub(r'### 🌍 Dünya.*?(?=## 📚)', world_replacement, content, flags=re.DOTALL)
 
     print("Writing README...")
     with open(README_PATH, 'w', encoding='utf-8') as f:
